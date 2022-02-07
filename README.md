@@ -6,3 +6,7 @@ Steps
 - Push the completed code to a github repository on your account
 - Host the completed page with netlify
 - Share links to your hosted website on the Whatsapp group.
+
+Kindly note: submission deadline is Sunday 13th Feb 2022.
+
+Wish you all the best.
